@@ -2,5 +2,5 @@
 ```
 - download zip file
 - unzip file
-- replace ServiceStack.Text dll file with the downloaded file
+- replace ServiceStack.Text.dll  file with the downloaded file
 ```
